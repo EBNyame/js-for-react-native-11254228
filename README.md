@@ -30,4 +30,3 @@ This project consists of four tasks related to array manipulation and user profi
 ### Task 4: README File
 
 - This README file provides a brief explanation of each task and includes my student ID.
-my first mobile app
